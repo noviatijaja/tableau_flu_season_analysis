@@ -1,4 +1,4 @@
-## Project 2: Preparing for Influenza Season (Tableau)
+## Preparing for Influenza Season (Tableau)
 
 ### Overview
 This project leverages data analytics and visualization to assist a medical staffing agency in planning for the annual influenza season. The primary goal is to identify trends and patterns that will help allocate medical personnel efficiently across the United States during peak flu periods.
